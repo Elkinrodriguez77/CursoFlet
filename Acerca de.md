@@ -2,9 +2,9 @@
 
 1. Enlace del curso:
 
-https://www.youtube.com/watch?v=JT5_zM-pkSU&list=PL2PZw96yQChyD79_mtqY_oBdyiCdRJnJa&index=7
+https://www.youtube.com/watch?v=IyyxdV4mOi8&list=PL2PZw96yQChyD79_mtqY_oBdyiCdRJnJa&index=21
 
-* Notas: Voy en clase 12
+* Notas: Voy para clase 19
 
 ## Primeros pasos:
 
@@ -19,3 +19,16 @@ https://www.youtube.com/watch?v=JT5_zM-pkSU&list=PL2PZw96yQChyD79_mtqY_oBdyiCdRJ
 
 - Desde la ruta del curso
 - pip freeze > requirements.txt
+
+
+## Bases de flet
+
+Que dice la documentación al respecto:
+
+- Conocimiento básico de Python
+- Principalmente la POO (Programación Orientada a Objetos de Python)
+
+## Estructura del curso
+
+[1. Demo inicial](./demo-inicial-contador/counter.py)
+[2. Estructura básica de una app con flet](./s01_getting_started/s01_01_app_structured.py)
